@@ -1,0 +1,99 @@
+.style-0,
+.style-1 {
+  background-image: url(https://designresources.assets.yotako.io/40599uejd09y586.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center
+}
+.style-1 {
+  background-image: url(https://designresources.assets.yotako.io/40599uejd09y5uf.png)
+}
+.style-2,
+.style-3 {
+  color: #fff;
+  text-align: center;
+  font-family: applesymbols,sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  font-style: normal
+}
+.style-3 {
+  font-size: 27px
+}
+.image-0-row-0,
+.style-0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial;
+  height: 100%
+}
+.style-0 {
+  z-index: 0;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  width: 100%;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column
+}
+.image-0-row-0 {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-align: initial;
+  -webkit-align-items: initial;
+  -ms-flex-align: initial;
+  align-items: initial;
+  width: 58.281%
+}
+.image-0-row-0,
+.style-1,
+.style-2,
+.style-3 {
+  position: initial;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.style-1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial;
+  height: 100%;
+  width: 48.704%;
+  z-index: 1
+}
+.style-2,
+.style-3 {
+  margin: 41px 0 0 21.46%;
+  width: 42.568%;
+  z-index: 2
+}
+.style-3 {
+  margin: 8px 0 0 2.5%;
+  width: 48.793%;
+  z-index: 3
+}
